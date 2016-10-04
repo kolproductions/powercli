@@ -1,1 +1,1 @@
-# powercli
+# PowerCLI scrips for VMWare
